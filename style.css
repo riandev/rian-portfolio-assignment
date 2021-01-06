@@ -1,0 +1,199 @@
+    body {
+        font-family: 'Bebas Neue', cursive;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .floatdesign {
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+    }
+    
+    #toptxt {
+        margin-top: 30px;
+    }
+    
+    .floatdesign h2 {
+        font-size: 40px;
+    }
+    
+    .floatdesign p {
+        font-size: 20px;
+        margin-bottom: 30px;
+        color: gray;
+    }
+    
+    .btn {
+        text-decoration: none;
+        color: whitesmoke;
+        padding: 10px 20px;
+        margin-top: 30px;
+        font-weight: bolder;
+        border-radius: 10px;
+        background-image: linear-gradient(90deg, blue, rgba(128, 0, 128, 0.603));
+    }
+    
+    .hilight {
+        color: orange;
+    }
+    
+    .floatdesign img {
+        width: 100%;
+    }
+    
+    .introduction {
+        height: 420px;
+    }
+    
+    .aboutme {
+        height: 420px;
+    }
+    
+    .projects {
+        background-color: rgba(128, 128, 128, 0.068);
+        height: 420px;
+    }
+    
+    .projecttitle {
+        text-align: center;
+    }
+    
+    .projectsample {
+        float: left;
+        width: 25%;
+        margin-left: 5%;
+        padding: 1% 1%;
+        background-color: white;
+        border-radius: 15px;
+        box-shadow: 5px 5px 5px 5px rgba(245, 244, 245, 0.534);
+    }
+    
+    .projectsample p {
+        font-size: 15px;
+        color: gray;
+    }
+    
+    .projectsample img {
+        width: 100%;
+    }
+    
+    .chat {
+        height: 250px;
+    }
+    
+    .chatimg {
+        background-image: url("images/chat.png");
+        background-repeat: no-repeat;
+        background-size: 70%;
+        width: 600px;
+        height: 180px;
+        margin-left: 430px;
+        margin-top: 88px;
+    }
+    
+    .chatimg p {
+        text-align: left;
+        padding-top: 45px;
+        padding-left: 15px;
+        color: whitesmoke;
+        font-weight: bolder;
+    }
+    
+    #letschat {
+        padding-left: 250px;
+        color: whitesmoke;
+        text-decoration: none;
+        font-weight: bolder;
+    }
+    
+    .contactme {
+        height: 170px;
+    }
+    
+    .contactme p {
+        text-align: center;
+        margin-top: 25px;
+    }
+    
+    .contactme h4 {
+        text-align: center;
+    }
+    
+    .contactmeimg img {
+        width: 2%;
+    }
+    
+    #aligncenter {
+        margin-left: 600px;
+    }
+    
+    .myaward {
+        height: 450px;
+        background-image: url("images/award-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    
+    #iconbtn {
+        width: 18px;
+    }
+    
+    .downloadbtn a {
+        text-decoration: none;
+        color: whitesmoke;
+        font-weight: bolder;
+        font-size: 20px;
+    }
+    
+    .downloadbtn {
+        padding: 10px 20px;
+        background-image: linear-gradient(90deg, blue, rgba(128, 0, 128, 0.582));
+        border-radius: 15px;
+    }
+    
+    .feedback h4 {
+        text-align: center;
+        padding-top: 15px;
+    }
+    
+    .fbtable {
+        margin-left: 200px;
+        padding: 10px;
+    }
+    
+    .fbtable input {
+        padding: 15px 15px;
+        margin: 10px 10px;
+    }
+    
+    .fbtable select {
+        padding: 15px 15px;
+        margin: 10px 10px;
+    }
+    
+    .feedback {
+        background-color: rgba(235, 229, 229, 0.171);
+        height: 360px;
+        background-image: url("images/feedback-bg.png");
+        background-repeat: no-repeat;
+        background-position: left;
+    }
+    
+    .fbsubmit {
+        padding: 10px 20px;
+        background-image: linear-gradient(90deg, blue, rgba(128, 0, 128, 0.582));
+        border-radius: 15px;
+        font-weight: bolder;
+        color: whitesmoke;
+        margin-left: 37%;
+        margin-top: 20px;
+    }
+    
+    footer {
+        text-align: center;
+        font-size: 14px;
+        height: 20px;
+        background-color: rgba(47, 75, 112, 0.089);
+    }
